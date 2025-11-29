@@ -1,8 +1,8 @@
-# System Zarządzania Zamówieniami - Przeprojektowany
+# System Zarządzania Zamówieniami
 
 ## Architektura Aplikacji
 
-Aplikacja została przeprojektowana zgodnie z zasadami **Clean Architecture** i **Domain-Driven Design**:
+Aplikacja napisana zgodnie z zasadami **Clean Architecture** i **Domain-Driven Design**:
 
 ```
 OrderManagementSystem/
