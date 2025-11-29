@@ -109,10 +109,7 @@ OrderManagementSystem/
 ## Dane Logowania
 
 ### Konta Testowe:
-- **admin** / **admin123** (Administrator)
-- **seller1** / **haslo123** (Jan Kowalski - Sprzedawca)
-- **seller2** / **test123** (Anna Nowak - Sprzedawca)
-- **manager** / **manager123** (Piotr Manager - Manager)
+- **admin** / **admin** (Administrator)
 
 ## Statusy Zamówień
 
@@ -121,14 +118,6 @@ OrderManagementSystem/
 3. **Completed** - Zakończone
 4. **Cancelled** - Anulowane
 5. **Shipped** - Wysłane
-
-## Przykładowe Produkty
-
-- **Jabłko** - Świeże jabłka (3,50 zł, stan: 100)
-- **Pomarańcza** - Słodkie pomarańcze (4,20 zł, stan: 80)
-- **Gruszka** - Soczyste gruszki (3,80 zł, stan: 60)
-- **Banan** - Dojrzałe banany (2,90 zł, stan: 120)
-- **Winogrono** - Słodkie winogrona (6,50 zł, stan: 40)
 
 ## Uruchomienie
 
